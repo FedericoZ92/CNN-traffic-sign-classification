@@ -36,7 +36,13 @@ The project uses the GTSRB dataset, which consists of:
 
 - `docs/`: Documentation and additional resources
 
-## Key Features
+## Documentation
+
+### Architecture Diagram
+
+![CNN Architecture](docs/cnn.PNG)
+
+This diagram illustrates the convolutional neural network architecture used in the federated learning implementation.
 
 - Federated learning implementation for privacy-preserving distributed training
 - Multiple architectural variants (raw, patch-based, segmented)
